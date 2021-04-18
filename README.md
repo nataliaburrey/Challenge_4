@@ -19,7 +19,6 @@ Risk Return Analysis
 - Technologies used
     - [Libraries](#Libraries)
     - [Interfaces](#Interfaces)
-- [Conclusions](#Conclusions)
 
 
 
@@ -112,12 +111,6 @@ Make sure to use following packedge:
 * The project was created in collaboration with Berkeley Fintech Bootcamp team: Allan Hall, Joel Gonzales, Siege.
 * Tutor Lavina Tang helped me to polish my code and tought me how to run separate parts of code to see if it works every step.
 * AskBCS Learning Assistant was used to troubleshoot some of the accuring problems outside of the classroom
-
-
-
-## Conclusions
-
-
 
 ---
 
